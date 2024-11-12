@@ -4,7 +4,7 @@
 This is a simple React.js application that tracks and counts the number of clicks made by the user. It demonstrates the basics of building and deploying a React.js application. The project is deployed and accessible online, and it can also be run locally.
 
 ## Project Links
-- **Deployed on Railway**: [React.js Practice Task on Railway](https://jspracticetest-production.up.railway.app/)
+- **Deployed on Railway**: [React.js Practice Task on Railway](https://jstestrailway-mateopillajo.up.railway.app/)
 
 ## Getting Started
 
